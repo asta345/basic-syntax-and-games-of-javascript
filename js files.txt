@@ -1,0 +1,4 @@
+<! to find your dog age formula in javascript>
+var dog=prompt("enter a dog age");
+var formula=((dog-2)*4)+21;
+alert("your dog age is"+formula):
